@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jest-app",
-    "slug": "jest-app",
+    "name": "food-app",
+    "slug": "food-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,16 +24,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.drana6900.jestapp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "3b6ba7a5-3559-4853-b17d-982443e288e2"
-      }
     }
   }
 }
